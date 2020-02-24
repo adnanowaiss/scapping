@@ -1,0 +1,2 @@
+We used  to perform web scraping using Python 3 and the BeautifulSoup library.
+We’ll be scraping weather forecasts from the National Weather Service, and then analyzing them using the Pandas library.
